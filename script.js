@@ -19,7 +19,7 @@ document.querySelector('.repeat').addEventListener('click' ,()=>{
         let songArray2=song2.split('');
         playComposition(songArray2);
 
-    }},3000)////////
+    }},3000)
 });
 
 function playSound (sound){
